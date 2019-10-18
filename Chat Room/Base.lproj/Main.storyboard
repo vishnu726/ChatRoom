@@ -104,10 +104,10 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mxv-HI-QDW">
-                                                    <rect key="frame" x="20" y="20" width="374" height="83.5"/>
+                                                    <rect key="frame" x="20" y="20" width="374" height="84"/>
                                                     <subviews>
                                                         <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="E4u-rr-X08">
-                                                            <rect key="frame" x="20" y="0.0" width="354" height="83.5"/>
+                                                            <rect key="frame" x="20" y="0.0" width="354" height="84"/>
                                                             <subviews>
                                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AIf-I2-fcf">
                                                                     <rect key="frame" x="0.0" y="0.0" width="354" height="22.5"/>
@@ -116,7 +116,7 @@
                                                                     <nil key="highlightedColor"/>
                                                                 </label>
                                                                 <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="9dB-Kn-hKw">
-                                                                    <rect key="frame" x="0.0" y="30.5" width="318" height="53"/>
+                                                                    <rect key="frame" x="0.0" y="30.5" width="318" height="53.5"/>
                                                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                     <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                                                     <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="17"/>
@@ -198,7 +198,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="background" width="250" height="300"/>
+        <image name="background" width="1728" height="2592"/>
         <image name="send" width="37.5" height="37.5"/>
     </resources>
 </document>
